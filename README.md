@@ -16,26 +16,40 @@ In order to produce a deep learning classifier for faults in wafer images, I dev
 
 References:
 Deep Learning and CNN’s
+
 Hands on Machine Learning with Scikit-Learn & TensorFlow by Aurélien Géron (O'Reilly). CopyRight 2017 Aurélien Géron
+
 Machine Learning - Over-& Undersampling - Python/ Scikit/ Scikit-Imblearn by Coding-Maniac
 auprc, 5-fold c-v, and resampling methods by Jeremy Lane (Kaggle Notebook)
+
 Goodfellow, I., Bengio, Y., & Courville, A. (2017). Deep learning. Cambridge, Mass: The MIT Press.
+
 Chollet, F. Deep learning with Python.
+
 Basic classification: Classify images of clothing  |  TensorFlow Core. (2020). Retrieved 6 March 2020, from https://www.tensorflow.org/tutorials/keras/classification
 
 GAN’s
 
 Auxiliary Classifier GAN - Keras Documentation. (2020). Retrieved 6 March 2020, from https://keras.io/examples/mnist_acgan/
+
 Chen, C., Mu, S., Xiao, W., Ye, Z., Wu, L., & Ju, Q. (2019). Improving Image Captioning with Conditional Generative Adversarial Nets. Proceedings Of The AAAI Conference On Artificial Intelligence, 33, 8142-8150. doi: 10.1609/aaai.v33i01.33018142
+
 Ravinutala, S. (2020). Playing around with SGDR. Retrieved 6 March 2020, from https://sidravi1.github.io/blog/2018/04/25/playing-with-sgdr
+
 Brownlee, J. (2020). How to Develop a GAN for Generating MNIST Handwritten Digits. Retrieved 6 March 2020, from https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/
+
 Data Augmentation tasks using Keras for image data. (2020). Retrieved 6 March 2020, from https://medium.com/@ayman.shams07/data-augmentation-tasks-using-keras-for-image-data-and-how-to-use-it-in-deep-learning-d4dd24e8ca19
 
 RNN’s / LSTM’s:
 
 CS 230 - Recurrent Neural Networks Cheatsheet. (2020). Retrieved 6 March 2020, from https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
+
 Recurrent Neural Network (LSTM) · TensorFlow Examples (aymericdamien). (2020). Retrieved 6 March 2020, from https://wizardforcel.gitbooks.io/tensorflow-examples-aymericdamien/3.06_recurrent_network.html
+
 Understanding LSTM Networks -- colah's blog. (2020). Retrieved 6 March 2020, from https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 What is a Recurrent NNs and Gated Recurrent Unit (GRUS). (2020). Retrieved 6 March 2020, from https://medium.com/@george.drakos62/what-is-a-recurrent-nns-and-gated-recurrent-unit-grus-ea71d2a05a69
+
 Roger Grosse. Lecture 15: Exploding and Vanishing Gradients. (2020). Retrieved 6 March 2020, from http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L15%20Exploding%20and%20Vanishing%20Gradients.pdf
+
 
